@@ -12,11 +12,11 @@ Aspiring Data Scientist with a mix of financial and data analysis skills with mo
 Competent providing insights to support business operations and improve performance.
 
 Main skills:
-- Hands-on data analysis and reporting experience
-- Strong Excel competency, Power BI, SQL, MS Visual Studio, and Python programming
-- Enthusiasm for data science and data visualization
-- Investigative, problem-solving and high attention to detail
-- A real passion for learning and increasing my abilities
+* Hands-on data analysis and reporting experience
+* Strong reporting and writing competency
+* Enthusiasm for data science and data visualization
+* Investigative, problem-solving and high attention to detail
+* A real passion for learning and increasing my abilities
 
 **Background in:** Python, Machine Learning, Power BI, SQL.
 
