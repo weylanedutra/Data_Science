@@ -27,6 +27,6 @@ Main skills:
 
 ## Projects:
 
-* **Exploratory Data Analysis on New Zealand Airbnb data in Python:** https://bit.ly/3D5XgsQ
+* **Exploratory Data Analysis on New Zealand Airbnb data in Python:** https://bit.ly/3yVXHT7
 
 ---
