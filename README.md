@@ -18,7 +18,7 @@ Main skills:
 * Investigative, problem-solving and high attention to detail
 * A real passion for learning and increasing my abilities
 
-**Background in:** Data Analysis, Python, Power BI.
+**Background in:** Data Analysis, Power BI, Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/weylanedutra)
